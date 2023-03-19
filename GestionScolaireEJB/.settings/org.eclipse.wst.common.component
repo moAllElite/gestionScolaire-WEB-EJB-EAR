@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="GestionScolaireEJB">
+        <wb-resource deploy-path="/" source-path="/com.groupeisi"/>
+                
+        <property name="java-output-path" value="/GestionScolaireEJB/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
