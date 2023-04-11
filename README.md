@@ -56,15 +56,6 @@ Username :
 ````
 ### Entrer le nom d'utilisateur
 
-```````
-
-Password recommendations are listed below. To modify these restrictions edit the add-user.properties configuration file.
- - The password should be different from the username
- - The password should not be one of the following restricted values {root, admin, administrator}
- - The password should contain at least 8 characters, 1 alphabetic character(s), 1 digit(s), 1 non-alphanumeric symbol(s)
-Password :
-`````
-
 Entrer le mot de passe et confirmer après
 
 -----
