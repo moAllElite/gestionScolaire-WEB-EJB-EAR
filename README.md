@@ -1,7 +1,5 @@
 # gestionScolaire-WEB-EJB-EAR
 
-==============
-
 Ce projet permet la gestion scolaire avec les opérations de base  CRUD 
 
 ---
