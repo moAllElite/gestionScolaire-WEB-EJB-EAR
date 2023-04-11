@@ -48,7 +48,7 @@ What type of user do you wish to add?
  b) Application User (application-users.properties)
  (a):
 `
-Run `a`
+### Run `a`
 ````
 Enter the details of the new user to add.
 Using realm 'ManagementRealm' as discovered from the existing property files.
@@ -73,6 +73,5 @@ Entrer le mot de passe et confirmer après
 
 En fin, lancez votre nativation puis tapez cette url
  ````
- http://localhost:8080/gestionScolaire`
+ http://localhost:8080/gestionScolaire
 ````
--------
