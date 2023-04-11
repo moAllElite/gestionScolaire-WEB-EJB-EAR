@@ -38,7 +38,10 @@ Vous ajoutez la configuration suivant de ce répertoire ci-dessus
 
 
 ## Création d'un utilisateur 
-#### Run `call wildfly/bin/add-user.bat`
+Vous aurez à lancez le terminal cmd ensuite depuis ce dernier  vous lancez la commande suivante:
+````
+call wildfly/bin/add-user.bat
+````
 ````
 What type of user do you wish to add?
  a) Management User (mgmt-users.properties)
