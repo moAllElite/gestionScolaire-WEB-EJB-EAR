@@ -42,12 +42,12 @@ Vous aurez à lancez le terminal cmd ensuite depuis ce dernier  vous lancez la c
 ````
 call wildfly/bin/add-user.bat
 ````
-````
+`
 What type of user do you wish to add?
  a) Management User (mgmt-users.properties)
  b) Application User (application-users.properties)
  (a):
-````
+`
 Run `a`
 ````
 Enter the details of the new user to add.
